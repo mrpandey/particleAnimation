@@ -1,7 +1,7 @@
 # particleAnimation
 Just a cool animation of particles exploding in a big-bang style.
 
-This project is a small demonstration of Object Oriented Programming in C++. Program is split in several class files, each for handling some aspect of program, and finally compiled and linked through MakeFile.
+This project is a small demonstration of Object Oriented Programming in C++. Program is split in several class files, each for handling some aspect of program, and finally compiled and linked through Makefile.
 
 #### Dependencies
 
