@@ -15,3 +15,7 @@ After you have satisfied the dependencies, download this reository and extract i
 #### Screenshot
 
 ![Program Screenshot](screenshot2.png)
+
+### License
+
+MIT License. [See here](LICENSE.md). :smile:
