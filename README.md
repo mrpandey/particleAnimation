@@ -5,12 +5,12 @@ This project is a small demonstration of Object Oriented Programming in C++. Pro
 
 #### Dependencies
 
-* **g++**: It is the default C/CPP compiler for most linux systems. All linux systems have it preinstalled.
-* **libsdl2-dev**: SDL is a C++ library that allows low level graphic access to programs. You need to install development version of SDL2. On Ubuntu/Debian you can use the command `sudo apt-get install libsdl2-dev` in your terminal (hit <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>T</kbd> to open).
+* **gcc/g++**: It is the default C/CPP compiler for most linux systems. On Ubuntu, you can install it using command `sudo apt-get install build-essential`.
+* **libsdl2-dev**: SDL is a C++ library that allows low level graphic access to programs. You need to install development version of SDL2. On Ubuntu/Debian you can use the command `sudo apt-get install libsdl2-dev` in your terminal.
 
 #### Building and Execution
 
-After you have satisfied the dependencies, download this reository and extract it. Open your terminal and change directory to this repository's directory and run `make` command. This will build the executable. Execute it using `./particleAnimation` command.
+After you have satisfied the dependencies, download this repository and extract it. Open your terminal and change directory to this repository's directory and run `make` command. This will build the executable. Execute it using `./particleAnimation` command.
 
 #### Screenshot
 
