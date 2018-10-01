@@ -5,8 +5,9 @@
 namespace partexplode
 {
 
-struct Particle
+class Particle
 {
+public:
 	double m_x;
 	double m_y;
 	
@@ -19,7 +20,6 @@ struct Particle
 	double m_speed;
 	double m_direction;
 
-public:
 	Particle();
 	~Particle();
 	void update(int);
